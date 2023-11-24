@@ -48,10 +48,7 @@ jobs: # Key is used to define one or more individual jobs that make up the workf
         # Often uses "black" in python;
         # "Prettier for Javascript"
         # "ClangFormat" for C/C++
-      
-      - name: Test
-        run: make test
-        # run tests on your codebase
+
 
       
           

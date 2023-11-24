@@ -10,8 +10,14 @@
 
 ## Data Visualization 
 
+![Alt Text](imgs/12.png)
+
+![Alt Text](imgs/11.png)
+
 ## Recommendation
 
+![Alt Text](imgs/13.png)
 
+![Alt Text](imgs/14.png)
 
 
