@@ -28,9 +28,11 @@ Since the  1872, Argentina has won more games as a host rather than a visiting t
 
 ## Recommendation
 Next, I wanted to see their toughest opponents. Argentina (as a host team) has lost to Uruguay and Brazil the most often than any other countries. 
+
 ![Alt Text](imgs/13.png)
 
 When Argentina is the away team, they also lost to Uruguay and Brazil the most compared to rest of the international teams.
+
 ![Alt Text](imgs/14.png)
 
 Based on these results, we can see that Argentinian national soccer team's toughest opponents are Uruguay and Brazil I recommend Argentinian team to study the game styles of these teams and analyze their performances. 
