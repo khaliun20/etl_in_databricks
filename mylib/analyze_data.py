@@ -3,11 +3,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from pyspark.sql.functions import count, desc, col
 
-
-import pandas as pd
-import matplotlib.pyplot as plt
-from pyspark.sql.functions import col
-
 df = spark.table("argentina_soccer_result")
 home_matches = df.filter((col("home_team") == 'Argentina'))
 total_home_matches = home_matches.count()
