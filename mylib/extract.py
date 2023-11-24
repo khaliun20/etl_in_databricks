@@ -1,5 +1,5 @@
 from pyspark.sql import SparkSession
-from pyspark.sql.types import DoubleType, IntegerType, StringType, StructType, StructField, BooleanType
+from pyspark.sql.types import IntegerType, StringType, StructType, StructField
 
 spark = SparkSession.builder.appName("ind_project").getOrCreate()
 

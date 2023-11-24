@@ -1,7 +1,6 @@
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import current_timestamp,col
-from pyspark.sql.types import *
-from pyspark.sql.types import DoubleType, IntegerType, StringType, StructType, StructField, BooleanType
+from pyspark.sql.functions import col
+from pyspark.sql.types import IntegerType, StringType, StructType, StructField, BooleanType
 
 spark = SparkSession.builder.appName("ind-project").getOrCreate()
 soccer_df = spark.table("soccer_result")
