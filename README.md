@@ -8,6 +8,8 @@
 
 ## ETL Auto Trigger
 
+![Alt Text](imgs/10.png)
+
 ## Data Visualization 
 
 ![Alt Text](imgs/12.png)
